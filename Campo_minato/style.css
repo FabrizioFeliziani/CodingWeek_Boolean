@@ -1,13 +1,3 @@
-/*
-COLOR PALETTE
-  black: rgb(0, 23, 50); #001732;
-  orange: rgb(241, 117, 78); #f1754e;
-  lightgreen: rgb(78, 241, 187); #4ef1bb;
-  bg-color: rgb(216, 238, 232);  #d8eee8;
-  bg-dark-color: rgb(203, 224, 221); #cbe0dd;
-  clicked-cell: rgb(157, 197, 199); #9dc5c7;
-*/
-
 /* CSS RESET */
 * {
 	margin: 0;
